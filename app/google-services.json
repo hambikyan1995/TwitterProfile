@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024453588992",
+    "project_id": "twittertask-d2634",
+    "storage_bucket": "twittertask-d2634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024453588992:android:ed797671843fccfb5c40e5",
+        "android_client_info": {
+          "package_name": "com.task.twitterprofiletask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024453588992-assesif5e1viu8snrnqvgc9p1pv4agbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task.twitterprofiletask",
+            "certificate_hash": "e04a58e778d006aed35fa6982d138121243d870e"
+          }
+        },
+        {
+          "client_id": "1024453588992-mov6ogtq2laljnmb3uot4ne0h6fhiomq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_SG2aJPEVmW0TOhJKguWtuUK9m6eJmNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024453588992-mov6ogtq2laljnmb3uot4ne0h6fhiomq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
